@@ -1,0 +1,48 @@
+{
+"enquestes": [
+	{
+		"id": 1,
+		"titol": "Satisfacció amb el servei de transport públic",
+		"activa": true,
+		"preguntes": [
+			{
+				"ordre": 1,
+				"text": "Com valoraries la puntualitat dels autobusos?",
+				"tipus": "opcio_multiple",
+				"opcions": [
+					"Molt bona",
+					"Acceptable",
+					"Defincient",
+				]
+			}
+			{
+				"ordre": 2,
+				"text": "Vols afegir algun comentari addicional?",
+				"tipus": "text_llliure",
+			}
+		]
+	}
+	{
+		"id": 2,
+		"titol": "Avaluació de la setmana d'exàmens",
+		"activa": false,
+		"preguntes": [
+			{
+				"ordre": 1,
+				"text": "Consideres que el temps assignat per a cada examen ha estat adequat",
+				"tipus": "opcio_multiple",
+				"opcions": [
+					"Sí",
+					"En alguns casos",
+					"No",
+				]
+			}
+			{
+				"ordre": 2,
+				"text": "Proposa alguna millora per al proper trimestre",
+				"tipus": "text_llliure",
+			}
+		]
+	}
+]
+}
