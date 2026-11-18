@@ -1,1 +1,1 @@
-Repositorio para la asignatura Lenguaje de marcas y sistemas de gestión de datos
+Repositori per a l'assignatura **Llenguatge de marques i sistemes de gestió de dades**
